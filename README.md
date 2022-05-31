@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A passionate data scientist from Switzerland!</h3>
 
+- 🔭 I’m currently working on [my data science portfolio](https://github.com/TarantinoDaniele/data-science-portfolio)
+
 - 🌱 I’m currently learning **Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/TarantinoDaniele/data-science-portfolio](https://github.com/TarantinoDaniele/data-science-portfolio)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/daniele-tarantino](www.linkedin.com/in/daniele-tarantino)
 
 - 💬 Ask me about **Machine Learning, Data Science,**
+
+- 📄 Know about my experiences [https://public.tableau.com/views/DanieleTarantino/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DanieleTarantino/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
+
+- ⚡ Fun fact **There's a correlation between people who drowned by falling into a pool and films where Nicolas Cage appeared in!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
