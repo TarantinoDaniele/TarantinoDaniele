@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/daniele-tarantino](www.linkedin.com/in/daniele-tarantino)
 
-- 💬 Ask me about **Machine Learning, Data Science,**
+- 💬 Ask me about **Machine Learning, Data Science, Business Intelligence, Data Analytics**
 
-- 📄 Know about my experiences [https://public.tableau.com/views/DanieleTarantino/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DanieleTarantino/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link)
+- 📄 Know about my experiences -  [my tableau resume](https://public.tableau.com/views/Mappe1_16744790236270/Dashboard1?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
 
 - ⚡ Fun fact **There's a correlation between people who drowned by falling into a pool and films where Nicolas Cage appeared in!**
 
